@@ -1,0 +1,32 @@
+[
+  {
+    "type": "bank-draft",
+    "title": "Bank Draft",
+    "position": 0,
+    "thumbnail": "https://www.cheatsheet.com/wp-content/uploads/2017/06/sulky-cat.jpg"
+  },
+  {
+    "type": "bill-of-lading",
+    "title": "Bill of Lading",
+    "position": 1,
+    "thumbnail": "https://cdn.pixabay.com/photo/2024/03/07/10/38/simba-8618301_1280.jpg"
+  },
+  {
+    "type": "invoice",
+    "title": "Invoice",
+    "position": 2,
+    "thumbnail": "https://cdn.pixabay.com/photo/2024/02/28/07/42/european-shorthair-8601492_1280.jpg"
+  },
+  {
+    "type": "bank-draft-2",
+    "title": "Bank Draft 2",
+    "position": 3,
+    "thumbnail": "https://cdn.pixabay.com/photo/2023/12/15/21/47/cat-8451431_640.jpg"
+  },
+  {
+    "type": "bill-of-lading-2",
+    "title": "Bill of Lading 2",
+    "position": 4,
+    "thumbnail": "https://cdn.pixabay.com/photo/2024/01/29/20/40/cat-8540772_640.jpg"
+  }
+]
